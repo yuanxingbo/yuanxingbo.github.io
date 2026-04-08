@@ -1,0 +1,33 @@
+type = "card"
+title = "Links"
+description = "Official profile and selected external links."
+
+[[items]]
+title = "Institute Profile"
+subtitle = "Institute of Particle Physics, CCNU"
+content = "Official faculty profile page at the Institute of Particle Physics."
+link = "https://iopp.ccnu.edu.cn/info/1193/1318.htm"
+
+[[items]]
+title = "Institute of Particle Physics"
+subtitle = "Central China Normal University"
+content = "Official website of the Institute of Particle Physics."
+link = "https://iopp.ccnu.edu.cn/"
+
+[[items]]
+title = "JHEP 2024"
+subtitle = "Recent paper"
+content = "Deciphering the Belle II data on B -> K nu nubar decay in the (dark) SMEFT with minimal flavour violation."
+link = "https://link.springer.com/article/10.1007/JHEP06(2024)172"
+
+[[items]]
+title = "Nuclear Physics B 2024"
+subtitle = "Recent paper"
+content = "Correlating the CDF W-mass shift with the muon g-2 and the b -> s l+l- transitions."
+link = "https://doi.org/10.1016/j.nuclphysb.2024.116646"
+
+[[items]]
+title = "Physics Letters B 2023"
+subtitle = "Recent paper"
+content = "Correlating the CDF W-boson mass shift with the b -> s l+l- anomalies."
+link = "https://doi.org/10.1016/j.physletb.2022.137651"

@@ -1,0 +1,45 @@
+[site]
+title = "袁兴博"
+description = "华中师范大学粒子物理研究所袁兴博副教授个人主页。"
+url = "https://yuanxingbo.github.io"
+favicon = "/favicon.svg"
+last_updated = "2026年4月7日"
+
+[author]
+name = "袁兴博"
+title = "副教授"
+institution = "华中师范大学粒子物理研究所"
+avatar = "/avatar.svg"
+
+[social]
+email = "y@ccnu.edu.cn"
+location = "中国，武汉"
+location_url = "https://maps.google.com/?q=Institute+of+Particle+Physics+Central+China+Normal+University"
+location_details = [
+  "华中师范大学 9 号教学楼 4 层 9618 办公室，",
+  "湖北省武汉市珞喻路 152 号"
+]
+
+[[navigation]]
+title = "关于我"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "相关链接"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "简历"
+type = "page"
+target = "cv"
+href = "/cv"

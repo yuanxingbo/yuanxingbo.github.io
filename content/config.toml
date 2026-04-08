@@ -1,0 +1,62 @@
+[site]
+title = "Xingbo Yuan"
+description = "Personal academic homepage of Xingbo Yuan, Associate Professor at Central China Normal University."
+url = "https://yuanxingbo.github.io"
+favicon = "/favicon.svg"
+last_updated = "April 7, 2026"
+
+[author]
+name = "Xingbo Yuan"
+title = "Associate Professor"
+institution = "Institute of Particle Physics, Central China Normal University"
+avatar = "/avatar.svg"
+
+[social]
+email = "y@ccnu.edu.cn"
+location = "Wuhan, China"
+location_url = "https://maps.google.com/?q=Institute+of+Particle+Physics+Central+China+Normal+University"
+location_details = [
+  "Institute of Particle Physics, Room 9618,",
+  "4th Floor, Building 9, No. 152 Luoyu Road, Wuhan, China"
+]
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "zh"
+mode = "fixed"
+fixed_locale = "zh"
+persist = true
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Links"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

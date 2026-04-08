@@ -1,0 +1,4 @@
+type = "publication"
+title = "Publications"
+description = "Selected and recent publications in particle physics theory."
+source = "publications.bib"

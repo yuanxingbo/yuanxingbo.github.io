@@ -1,0 +1,33 @@
+type = "card"
+title = "相关链接"
+description = "官方页面与近期论文链接。"
+
+[[items]]
+title = "研究所主页"
+subtitle = "华中师范大学粒子物理研究所"
+content = "袁兴博老师在研究所官网上的个人页面。"
+link = "https://iopp.ccnu.edu.cn/info/1193/1318.htm"
+
+[[items]]
+title = "粒子物理研究所"
+subtitle = "华中师范大学粒子物理研究所"
+content = "华中师范大学粒子物理研究所官方网站。"
+link = "https://iopp.ccnu.edu.cn/"
+
+[[items]]
+title = "JHEP 2024"
+subtitle = "近期论文"
+content = "关于 Belle II 的 B -> K nu nubar 衰变数据及其在（暗）SMEFT 框架下解释的研究。"
+link = "https://link.springer.com/article/10.1007/JHEP06(2024)172"
+
+[[items]]
+title = "Nuclear Physics B 2024"
+subtitle = "近期论文"
+content = "关于 CDF W 质量偏移、muon g-2 与 b -> s l+l- 跃迁关联的研究。"
+link = "https://doi.org/10.1016/j.nuclphysb.2024.116646"
+
+[[items]]
+title = "Physics Letters B 2023"
+subtitle = "近期论文"
+content = "关于 CDF W 玻色子质量偏移与 b -> s l+l- 反常联系的研究。"
+link = "https://doi.org/10.1016/j.physletb.2022.137651"

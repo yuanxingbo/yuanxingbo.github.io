@@ -1,0 +1,24 @@
+type = "card"
+title = "Teaching"
+description = "Courses taught for undergraduate and graduate students."
+
+[[items]]
+title = "Mathematical Methods for Physics"
+subtitle = "Instructor"
+date = "Recent years"
+content = "Undergraduate course covering mathematical tools commonly used in theoretical and experimental physics."
+tags = ["Undergraduate", "Physics"]
+
+[[items]]
+title = "Secondary Physics Experiments"
+subtitle = "Instructor"
+date = "Recent years"
+content = "Undergraduate course focused on experimental training and physics teaching practice."
+tags = ["Undergraduate", "Experiment"]
+
+[[items]]
+title = "Particle Physics: Theory and Phenomenology"
+subtitle = "Instructor"
+date = "Recent years"
+content = "Graduate-level course introducing the theoretical foundations and phenomenological applications of particle physics."
+tags = ["Graduate", "Particle Physics"]

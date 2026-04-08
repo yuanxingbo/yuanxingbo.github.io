@@ -1,0 +1,4 @@
+type = "publication"
+title = "论文"
+description = "粒子物理理论方向的代表性与近期论文。"
+source = "publications.bib"

@@ -1,0 +1,13 @@
+type = "card"
+title = "Honors"
+description = "Academic honors and distinctions."
+
+[[items]]
+title = "Chu Tian Xue Zi"
+subtitle = "Hubei Province"
+content = "Recognized as a provincial-level distinguished young scholar."
+
+[[items]]
+title = "Guizi Young Scholar"
+subtitle = "Central China Normal University"
+content = "University-level young scholar distinction awarded by CCNU."

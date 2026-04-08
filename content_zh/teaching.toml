@@ -1,0 +1,24 @@
+type = "card"
+title = "教学"
+description = "近年来承担的本科生与研究生课程。"
+
+[[items]]
+title = "物理数学方法"
+subtitle = "授课教师"
+date = "近年"
+content = "面向本科生开设，介绍理论与实验物理中常用的数学方法。"
+tags = ["本科生", "物理"]
+
+[[items]]
+title = "中学物理实验"
+subtitle = "授课教师"
+date = "近年"
+content = "面向本科生开设，侧重实验训练与物理教学实践。"
+tags = ["本科生", "实验"]
+
+[[items]]
+title = "粒子物理：理论与唯象"
+subtitle = "授课教师"
+date = "近年"
+content = "面向研究生开设，介绍粒子物理的理论基础及唯象研究。"
+tags = ["研究生", "粒子物理"]

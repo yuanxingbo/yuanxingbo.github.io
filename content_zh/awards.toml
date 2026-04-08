@@ -1,0 +1,13 @@
+type = "card"
+title = "荣誉"
+description = "已获得的学术荣誉与称号。"
+
+[[items]]
+title = "楚天学子"
+subtitle = "湖北省"
+content = "入选湖北省人才项目。"
+
+[[items]]
+title = "桂子青年学者"
+subtitle = "华中师范大学"
+content = "入选华中师范大学青年人才计划。"
