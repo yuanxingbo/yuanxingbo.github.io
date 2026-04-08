@@ -127,7 +127,12 @@ export default function RootLayout({
   } = buildLocalizedConfigMaps(targetLocales);
 
   return (
-    <html lang={runtimeI18n.defaultLocale} className="scroll-smooth" suppressHydrationWarning>
+    <html
+      lang={runtimeI18n.defaultLocale}
+      data-locale={runtimeI18n.defaultLocale}
+      className="scroll-smooth"
+      suppressHydrationWarning
+    >
       <head>
         <link rel="icon" href={config.site.favicon} type="image/svg+xml" />
         <script

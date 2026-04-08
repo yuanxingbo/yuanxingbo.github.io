@@ -69,10 +69,11 @@ function resolveInitialLocale(config: I18nRuntimeConfig): string {
 }
 
 export const useLocaleStore = create<LocaleStore>()((set, get) => ({
-  locale: 'en',
+  // Keep the static export aligned with the site's configured default locale.
+  locale: 'zh',
   isReady: false,
-  locales: ['en'],
-  defaultLocale: 'en',
+  locales: ['zh', 'en'],
+  defaultLocale: 'zh',
   persistSelection: true,
 
   initialize: (config: I18nRuntimeConfig) => {
