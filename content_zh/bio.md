@@ -13,4 +13,4 @@
 ## 官方页面
 
 - [研究所主页](https://iopp.ccnu.edu.cn/info/1193/1318.htm)
-- [B站:袁老师小课堂](https://space.bilibili.com/157716952) 
+- [B站:袁老师小课堂](https://space.bilibili.com/157716952)
